@@ -12,4 +12,4 @@ Desafios
 
 Meus Exercícios
 
-<a href="https://ifoxelement.github.io/exercicios/ex022">Exercício 22</a>
+<a href="https://ifoxelement.github.io/exercicios/ex022/">Exercício 22</a>
